@@ -1,0 +1,15 @@
+C:\Users\disrct\Desktop\aulas_cs\ProvaC#\q9\bin\Debug\net6.0-windows\q9.exe
+C:\Users\disrct\Desktop\aulas_cs\ProvaC#\q9\bin\Debug\net6.0-windows\q9.deps.json
+C:\Users\disrct\Desktop\aulas_cs\ProvaC#\q9\bin\Debug\net6.0-windows\q9.runtimeconfig.json
+C:\Users\disrct\Desktop\aulas_cs\ProvaC#\q9\bin\Debug\net6.0-windows\q9.dll
+C:\Users\disrct\Desktop\aulas_cs\ProvaC#\q9\bin\Debug\net6.0-windows\q9.pdb
+C:\Users\disrct\Desktop\aulas_cs\ProvaC#\q9\obj\Debug\net6.0-windows\q9.csproj.AssemblyReference.cache
+C:\Users\disrct\Desktop\aulas_cs\ProvaC#\q9\obj\Debug\net6.0-windows\q9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disrct\Desktop\aulas_cs\ProvaC#\q9\obj\Debug\net6.0-windows\q9.AssemblyInfoInputs.cache
+C:\Users\disrct\Desktop\aulas_cs\ProvaC#\q9\obj\Debug\net6.0-windows\q9.AssemblyInfo.cs
+C:\Users\disrct\Desktop\aulas_cs\ProvaC#\q9\obj\Debug\net6.0-windows\q9.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\aulas_cs\ProvaC#\q9\obj\Debug\net6.0-windows\q9.dll
+C:\Users\disrct\Desktop\aulas_cs\ProvaC#\q9\obj\Debug\net6.0-windows\refint\q9.dll
+C:\Users\disrct\Desktop\aulas_cs\ProvaC#\q9\obj\Debug\net6.0-windows\q9.pdb
+C:\Users\disrct\Desktop\aulas_cs\ProvaC#\q9\obj\Debug\net6.0-windows\q9.genruntimeconfig.cache
+C:\Users\disrct\Desktop\aulas_cs\ProvaC#\q9\obj\Debug\net6.0-windows\ref\q9.dll

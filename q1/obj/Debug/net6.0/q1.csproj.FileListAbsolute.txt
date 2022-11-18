@@ -1,0 +1,15 @@
+C:\Users\disrct\Desktop\aulas_cs\ProvaC#\q1\bin\Debug\net6.0\q1.exe
+C:\Users\disrct\Desktop\aulas_cs\ProvaC#\q1\bin\Debug\net6.0\q1.deps.json
+C:\Users\disrct\Desktop\aulas_cs\ProvaC#\q1\bin\Debug\net6.0\q1.runtimeconfig.json
+C:\Users\disrct\Desktop\aulas_cs\ProvaC#\q1\bin\Debug\net6.0\q1.dll
+C:\Users\disrct\Desktop\aulas_cs\ProvaC#\q1\bin\Debug\net6.0\q1.pdb
+C:\Users\disrct\Desktop\aulas_cs\ProvaC#\q1\obj\Debug\net6.0\q1.csproj.AssemblyReference.cache
+C:\Users\disrct\Desktop\aulas_cs\ProvaC#\q1\obj\Debug\net6.0\q1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disrct\Desktop\aulas_cs\ProvaC#\q1\obj\Debug\net6.0\q1.AssemblyInfoInputs.cache
+C:\Users\disrct\Desktop\aulas_cs\ProvaC#\q1\obj\Debug\net6.0\q1.AssemblyInfo.cs
+C:\Users\disrct\Desktop\aulas_cs\ProvaC#\q1\obj\Debug\net6.0\q1.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\aulas_cs\ProvaC#\q1\obj\Debug\net6.0\q1.dll
+C:\Users\disrct\Desktop\aulas_cs\ProvaC#\q1\obj\Debug\net6.0\refint\q1.dll
+C:\Users\disrct\Desktop\aulas_cs\ProvaC#\q1\obj\Debug\net6.0\q1.pdb
+C:\Users\disrct\Desktop\aulas_cs\ProvaC#\q1\obj\Debug\net6.0\q1.genruntimeconfig.cache
+C:\Users\disrct\Desktop\aulas_cs\ProvaC#\q1\obj\Debug\net6.0\ref\q1.dll
